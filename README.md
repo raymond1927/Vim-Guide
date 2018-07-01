@@ -1,7 +1,13 @@
 # Vim-Guide :heart_eyes:
 A guide to some helpful tips for using Vim. Aimed towards beginners.
+Introduction is at the bottom for readability purposes.
 
-## Motivation
+# Navigation
+### The basics
+
+
+## Introduction
+### Motivation
 Vim is a great, lightweight text editor that can be accessed from your terminal and is even better when combined with Tmux(Terminal Multiplexer).
 It has a steep learning curve but the payoff in increased efficiency is worth it.
 In my opinion, you only require a small subset of Vim knowledge to use it effectively. Conforming to the 90-10 principle.
@@ -10,7 +16,7 @@ So even if Vim has a high learning curve you only need the basics to use it like
 is where the learning curve picks up, but honestly that's were the fun is.
 This guide will mainly cover the basics and some nifty bells-and-whistles.
 
-## Modes
+### Modes
 The first time you load up Vim, you won't be able to type in any text in. This is often the most off-putting feature for most new users.
 You can't even do something simple like typing in text, worst of all you can't even exit Vim, without Vim's close command which is ":q".
 This is because Vim is in normal mode. What is a mode? What is normal mode? Why does it have to be so complicated?
@@ -20,7 +26,7 @@ key combinations. You should be familiar with Crtl-C and Crtl-V or CMD-C and CMD
 To fit all these commands onto a keyboard, you have different modes. When you are in a different mode, your keyboard has access to a different
 set of shortcuts.
 
-### Normal
+#### Normal
 
 
 ## Navigation
