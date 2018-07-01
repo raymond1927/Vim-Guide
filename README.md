@@ -5,18 +5,19 @@ Introduction is at the bottom for readability purposes.
 # Cheatsheet
 ## Navigation - NORMAL MODE
 ### The basics
-h - move left
-j - move down
-k - move up
-l - move right
+* h - move left
+* j - move down
+* k - move up
+* l - move right
 ### Traversing one word at a time
-w - move to the beginning of next word
-b - move to the beginning of the previous word
-e - move the end of the current word
+* w - move to the beginning of next word
+* b - move to the beginning of the previous word
+* e - move the end of the current word
+
 Similar for captials excepts ignores punctuation
-W
-B
-E
+* W
+* B
+* E
 
 ### Traversing multiple lines
 
