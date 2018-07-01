@@ -2,11 +2,25 @@
 A guide to some helpful tips for using Vim. Aimed towards beginners.
 Introduction is at the bottom for readability purposes.
 
-# Navigation
+# Cheatsheet
+## Navigation - NORMAL MODE
 ### The basics
+h - move left
+j - move down
+k - move up
+l - move right
+### Traversing one word at a time
+w - move to the beginning of next word
+b - move to the beginning of the previous word
+e - move the end of the current word
+Similar for captials excepts ignores punctuation
+W
+B
+E
 
+### Traversing multiple lines
 
-## Introduction
+# Introduction
 ### Motivation
 Vim is a great, lightweight text editor that can be accessed from your terminal and is even better when combined with Tmux(Terminal Multiplexer).
 It has a steep learning curve but the payoff in increased efficiency is worth it.
